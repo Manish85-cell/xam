@@ -1,0 +1,29 @@
+.container{
+    width:50%;
+    display:flex;
+    justify-content:space-between;
+    align-items: inline;
+    padding:100px;
+    margin:20px;
+}
+
+.container-right img{
+    margin:50px;
+    height: 500px;
+    margin-left:0px;
+    display:flex;
+    justify-content: right;
+    border-radius:100px;
+}
+
+.large-container{
+    display:flex;
+    justify-content:space-between;
+    align-items: inline;
+    /* height: 2000px; */
+}
+.info{
+    height: 1000px;
+    font-weight:bold;
+    font-size:5em;
+}

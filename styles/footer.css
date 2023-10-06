@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content:space-between;
+    margin-left:10%;
+    border-top: 2px solid  white;
+    width:60%;
+}
+#item2{
+    display:flex;
+    align-items:center;
+}
